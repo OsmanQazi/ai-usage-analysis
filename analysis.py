@@ -56,7 +56,7 @@ for bar, val in zip(bars, q1["adoption_rate_%"]):
     ax.text(bar.get_width() + 0.3, bar.get_y() + bar.get_height()/2,
             f"{val:.1f}%", va="center", fontsize=9)
 plt.tight_layout()
-plt.savefig("charts/q1_adoption_by_industry.png")
+plt.savefig("charts/q1_industry_adoption.png")
 plt.close()
 print("Saved: charts/q1_adoption_by_industry.png")
 
