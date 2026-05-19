@@ -56,7 +56,7 @@ ai-usage-analysis/
 ## 📊 Sample Visualisations
 
 ### Q1 — AI Adoption by Industry
-![Q1](charts/q1_adoption_by_industry.png)
+![Q1](charts/q1_adoptio_by_industry.png)
 
 ### Q2 — Year-over-Year Growth
 ![Q2](charts/q2_yoy_growth.png)
